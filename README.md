@@ -1,15 +1,25 @@
 # Spots
 
+An image sharing site.
+
+## Description
+
 This is the third project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
 ## Project features
 
-- Semantic HTML5
+- HTML
+- CSS
 - Flexbox
 - Positioning
 - Flat BEM file structure
-- A custom form
-- CSS animation and transform
+- Responsive Design
+- Grid layout
+- Media screen
+
+![alt text](./images/demo/Media.png)
+
+![alt text](./images/demo/MediaPreview.png)
 
 ## Deployment
 
