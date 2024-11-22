@@ -1,5 +1,5 @@
 .card__title {
-  font-family: Poppins Arial, Helvetica, sans-serif;
+  font-family: Poppins, Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
@@ -33,7 +33,7 @@
   opacity: 40%;
 }
 
-@media and (max-width: 627px) {
+@media screen and (max-width: 627px) {
   .card__image {
     height: 288px;
   }
