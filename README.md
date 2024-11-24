@@ -26,3 +26,7 @@ This is the third project of the Software Engineering program at TripleTen. It w
 This webpage is deployed to GitHub pages
 
 - Deployment Link: https://syerkes13.github.io/se_project_spots/
+
+There is a video walkthrough of this webpages features
+
+- Video Link: https://drive.google.com/file/d/1dHYoOaqO-qCPT9BBZZbt-Qe-cQwjEFir/view?usp=drive_link
