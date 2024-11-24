@@ -37,6 +37,7 @@
 
 .card__like-btn:hover {
   cursor: pointer;
+  opacity: 1;
 }
 
 @media screen and (max-width: 627px) {
@@ -48,5 +49,10 @@
     font-size: 16px;
     line-height: 16px;
     max-width: 250px;
+  }
+
+  .card__like-btn {
+    width: 20px;
+    height: 18px;
   }
 }
