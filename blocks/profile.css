@@ -130,7 +130,7 @@
   }
 
   .profile__edit-btn {
-    margin: 20px auto;
+    margin: 0 auto 20px;
     justify-content: center;
   }
 }
