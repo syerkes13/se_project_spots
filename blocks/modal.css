@@ -33,6 +33,7 @@
   width: 40px;
   height: 40px;
   background-image: url(../images/xbutton.svg);
+  background-position: center;
 }
 
 .modal__title {
